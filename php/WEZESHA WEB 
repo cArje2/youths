@@ -1,0 +1,16 @@
+# Query: Africa
+# ContextLines: 1
+
+3 results - 2 files
+
+contact.html:
+  196  
+  197: 							<li class="contact-item"> <span class="contact-icon"> <i class="fa fa-envelope"></i></span> Wezesha Youth Iniative.org</li>
+  198  						</ul>
+
+gallery.html:
+  196  
+  197: 					<a href="assets/images/gallery/africa-education.jpg" class="col-md-3 col-sm-4 gallery-item lightbox">
+  198  
+  199: 						<img src="assets/images/gallery/thumb/africa-education.jpg" alt="">
+  200  						
